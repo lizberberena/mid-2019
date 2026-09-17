@@ -1,12 +1,12 @@
 # Site Info
-title:              "Liz Lorena"
+title:              "Liz Berberena"
 description:        "This is the online design and development portfolio of Liz."
 image:              /img/sitewideimg.png
 
 # Author Info
-author_name:        "Liz Lorena"
-author_email:       liz@lizlorena.com
-github_username:    liz-lorena
+author_name:        "Liz Berberena"
+author_email:       lizlberberena@gmail.com
+github_username:    lizberberena
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
