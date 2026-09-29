@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animal Games Database
+title: Animal Games Database Website
 projectDate: July 2019 - Present
 category: HTML Website
 role: Web Designer
