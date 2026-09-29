@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Second Portfolio
+title: My Second Portfolio Website
 projectDate: Fall 2017
 category: HTML Website
 role: Web Designer
