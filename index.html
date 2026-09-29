@@ -25,9 +25,15 @@ title: Portfolio
 
 <div id="work" style="float:left;">
 
+            <div class="container">
+
+                        <div class="row">
+
     {% for post in site.posts %}
     
     {% if post.relevant != "no" %}
+                                    
+<div class="col-12 col-md-6 col-lg-4">
     <div class="post">
         <img src="{{ site.url }}/img/{{ post.img }}" class="img-fluid" alt="{{ post.title }}">
         <div class="header">
@@ -53,9 +59,13 @@ title: Portfolio
                     {% endif %}
         </p>
     </div>
+</div>
 
     {% endif %}
     {% endfor %}
+                                    
+                        </div>
+            </div>
 
 </div>
 <!--
