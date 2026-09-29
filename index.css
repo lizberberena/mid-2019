@@ -120,6 +120,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
+	color:#00B38B!important;
 }
 /*Mobile Menu*/
 div#mobile-menu div.dropdown span i.fas.fa-chevron-down {
