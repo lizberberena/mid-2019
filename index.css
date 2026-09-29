@@ -218,9 +218,10 @@ div#footer-widgets div.widget ul li .dropdown-content {
 }
 /*Top-Menu-Right*/
 div#top-menu-right {
-	width: 100%;
+	width: 130px;
 	float: right;
-	margin: 10px 0px 0px 0px;
+	margin: 0 auto;
+	margin-top: 10px;
 }
 div#top-menu-right ul li, div#footer-widgets div.widget ul li {
 	padding: 5px;
