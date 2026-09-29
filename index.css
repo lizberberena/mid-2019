@@ -639,6 +639,7 @@ div#main-area a:hover {
 div#content img.img-fluid, img.img-fluid.leftfloat, img.img-fluid.rightfloat {
 	width: 100%;
 	float: none;
+	height:auto;
 }
 div#content {
 	margin-top: 100%;
@@ -1209,7 +1210,8 @@ div.data {
 		float: left;
 		position: relative;
 		display: block;	
-		width: 264px;
+		width:100%;
+		/*width: 264px;*/
 		/*height: 280px;*/
 		box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
 		margin-bottom: 0px;
